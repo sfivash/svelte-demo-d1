@@ -1,0 +1,6 @@
+# If you are only using Pages + D1, you only need the below in your wrangler.toml to interact with D1 locally.
+[[d1_databases]]
+binding = "DB"
+database_name = "db"
+database_id = "58cb2418-c13b-4ec3-999e-cdc9d1cf19e1"
+preview_database_id = "DB_LOCAL"
